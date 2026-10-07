@@ -107,7 +107,7 @@ console.log("Largest digit:", largestDigit(no));
 
  let nb = Number(prompt("Enter a number:"));
 
- console.log("Sum of factorials:", factorials(n));
+ console.log("Sum of factorials:", factorials(nb));
 
 
 // 6. Find the next prime number after a given number.
@@ -141,9 +141,9 @@ console.log("Largest digit:", largestDigit(no));
      return num;
  }
 
- let  = Number(prompt("Enter a number:"));
+ let nob = Number(prompt("Enter a number:"));
 
-console.log("Next prime number:", nextPrime(n));
+console.log("Next prime number:", nextPrime(nob));
 
 
 // 7. Write a function to calculate Area of a Rectangle.
